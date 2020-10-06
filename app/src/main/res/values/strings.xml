@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ClockApp</string>
+    <string name="title_activity_clock_in">Map</string>
+
+    <string name="title_activity_clock_in_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="staff_id">Staff Id</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_staffid">Not a valid id</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_forgot_password">Forgotten password?</string>
+    <string name="sign_up">Register</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+    <string name="tab_text_1">Dashboard</string>
+    <string name="tab_text_2">User Details</string>
+
+
+    <string name="clock_stat1">Out of Range</string>
+    <string name="clock_stat2">Okay!</string>
+    <string name="clock_distance">Distance to Location</string>
+    <string name="name">Name</string>
+    <string name="staffid">Staff ID</string>
+    <string name="timestamp">TimeStamp</string>
+    <string name="position">GeoLocation</string>
+
+    <string name="login_message">the user is in clocked in status</string>
+    <string name="logout_message">the user is in clocked out status</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_clock_out">Map</string>
+</resources>

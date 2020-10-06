@@ -1,0 +1,69 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="fabStandard" parent="Widget.Design.FloatingActionButton">
+        <item name="backgroundTint">@color/colorWhite</item>
+
+    </style>
+
+
+
+    <style name="textTitle" parent="Widget.Design.AppBarLayout">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Appmat" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/black</item>
+        <item name="colorSecondary">@color/white</item>
+
+    </style>
+
+    <style name="appbar" parent="Platform.MaterialComponents">
+        <item name="colorPrimary">@color/black</item>
+    </style>
+
+    <style name="button" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/black</item>
+        <item name="backgroundTint">@color/white</item>
+    </style>
+
+    <style name="tab" parent="Widget.MaterialComponents.TabLayout">
+        <item name="tabIndicatorColor">@color/white</item>
+        <item name="tabTextColor">@color/white</item>
+        <item name="android:background">@color/black</item>
+    </style>
+
+
+    <style name="submitback" parent="Appmat">
+        <item name="selectableItemBackground">@color/black</item>
+        <item name="android:background">@color/black</item>
+        <item name="android:textColorHint">@color/white</item>
+    </style>
+
+<!--    <style name="inputfields" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">-->
+<!--        <item name="android:colorAccent">@color/white</item>-->
+<!--        <item name="counterOverflowTextAppearance">@color/black</item>-->
+
+<!--    </style>-->
+
+    <style name="cardview." parent="Widget.MaterialComponents.CardView">
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+
+        <item name="cardElevation">2dp</item>
+    </style>
+
+
+
+</resources>
